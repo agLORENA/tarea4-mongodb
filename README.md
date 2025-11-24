@@ -24,7 +24,8 @@ Implementación de scripts y consultas en MongoDB para la base de datos **ecomme
 ---
 
 ## Estudiante
--KAREN LORENA ALVAREZ GONZALEZ
+- KAREN LORENA ALVAREZ GONZALEZ
+  
 ---
 
 ## Ejecución del Proyecto
