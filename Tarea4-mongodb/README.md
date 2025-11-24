@@ -30,10 +30,9 @@ Contiene:
 - Operadores de actualización
 - Pipelines de agregación (group, sort, avg, sum)
 
-### `capturas/` *(opcional)*
-Carpeta donde puedes colocar imágenes de evidencia de ejecución.
 
 ## Ejecución del proyecto
 
 ### 1. Insertar los 100 documentos
 Abrir una terminal y ejecutar:
+
